@@ -1395,3 +1395,4 @@ public class OuterClass {
     }
 }
 ______________________________________________________________________________________________________
+-> The differences between inner classes and lambda expressions in Java are as follows:
