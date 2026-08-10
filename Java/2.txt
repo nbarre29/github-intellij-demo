@@ -1,13 +1,13 @@
 Summary of SOLID
 
-    Single Responsibility Principle (SRP): One class = One responsibility.
+    Singlee Responsibility Principle (SRP): One class = One responsibility.
     Open/Closed Principle (OCP): Extend behavior without modifying existing code.
     Liskov Substitution Principle (LSP): Subtypes must honor parent class behavior.
     Interface Segregation Principle (ISP): Don’t force classes to implement unused methods.
     Dependency Inversion Principle (DIP): Depend on abstractions, not concrete implementations.
 	
 	
-Benefits of SOLID Principles
+Benefits of SOLID Principless
 
     Maintainability: Easier to make changes without breaking existing code.
     Scalability: Easy to extend the system with new features.
