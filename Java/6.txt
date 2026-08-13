@@ -1,2 +1,2 @@
-new-branch-test1
-new-branch-test2
+develop-test1
+develop-test2
